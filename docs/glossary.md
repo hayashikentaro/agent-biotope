@@ -89,6 +89,24 @@ The human role in a mature agent biotope.
 
 A gardener does not micromanage every action. A gardener shapes the habitat, adjusts boundaries, prunes unhealthy growth, introduces new roles, and decides what counts as value.
 
+## Law
+
+The force of boundary, constraint, schema, gate, watchdog, naming, and structure.
+
+Law gives a habitat shape. Without Life, Law becomes dead order.
+
+## Life
+
+The force of generation, exploration, circulation, accident, growth, and agent activity.
+
+Life gives a habitat movement. Without Law, Life becomes uncontrolled growth.
+
+## Love
+
+The cultivating judgment that decides what is worth preserving, what should be pruned, and what value means.
+
+Love prevents Law and Life from becoming cold automation. It is not indulgence; it is the care that accepts both growth and necessary cutting.
+
 ## Rulebook
 
 Durable written criteria that let role sessions be recreated without depending on conversation memory.
