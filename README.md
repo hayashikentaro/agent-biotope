@@ -67,6 +67,7 @@ For example:
 - [Principles](docs/principles.md)
 - [Substrate Model](docs/substrate-model.md)
 - [Harvest Model](docs/harvest-model.md)
+- [Selective Cultivation Model](docs/selective-cultivation-model.md)
 - [Glossary](docs/glossary.md)
 - [TaskDeck relationship](docs/notes/taskdeck-relationship.md)
 
