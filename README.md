@@ -69,6 +69,7 @@ For example:
 - [Harvest Model](docs/harvest-model.md)
 - [Selective Cultivation Model](docs/selective-cultivation-model.md)
 - [Compute Flow Model](docs/compute-flow-model.md)
+- [Selection Pressure Model](docs/selection-pressure-model.md)
 - [Glossary](docs/glossary.md)
 - [TaskDeck relationship](docs/notes/taskdeck-relationship.md)
 
