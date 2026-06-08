@@ -72,6 +72,7 @@ For example:
 - [Selection Pressure Model](docs/selection-pressure-model.md)
 - [Glossary](docs/glossary.md)
 - [TaskDeck relationship](docs/notes/taskdeck-relationship.md)
+- [Democracy / Dictatorship Tension](docs/notes/democracy-dictatorship-tension.md)
 
 Patterns:
 
