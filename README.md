@@ -65,6 +65,8 @@ For example:
 
 - [Manifesto](docs/manifesto.md)
 - [Principles](docs/principles.md)
+- [Substrate Model](docs/substrate-model.md)
+- [Harvest Model](docs/harvest-model.md)
 - [Glossary](docs/glossary.md)
 - [TaskDeck relationship](docs/notes/taskdeck-relationship.md)
 
