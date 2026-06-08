@@ -30,6 +30,29 @@ human shapes the habitat
 
 The human becomes less like a task dispatcher and more like a gardener.
 
+## Law, Life, Love
+
+Agent Biotope is not only a workflow pattern. It is a way to hold three forces together.
+
+```text
+Law
+  the force of boundary, constraint, schema, gate, watchdog, naming, and structure
+
+Life
+  the force of generation, exploration, circulation, accident, growth, and agent activity
+
+Love
+  the cultivating judgment that decides what is worth preserving, what should be pruned, and what value means
+```
+
+Law without Life is dead order.
+
+Life without Law is uncontrolled growth.
+
+Law and Life without Love is cold automation.
+
+The target is living structure: a habitat where Law constrains, Life generates, and Love cultivates.
+
 ## The Gardener Role
 
 A gardener does not command every leaf to grow.
