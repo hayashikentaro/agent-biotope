@@ -17,6 +17,29 @@ In a healthy biotope:
 - watchdogs detect abnormal conditions;
 - humans intervene as gardeners, not micromanagers.
 
+## The Three Ls
+
+Agent Biotope holds three forces in tension:
+
+```text
+Law
+  boundaries, constraints, structure, schemas, gates, watchdogs
+
+Life
+  generation, exploration, agent activity, circulation, accident, growth
+
+Love
+  the value judgment that decides what to cultivate, what to preserve, and what to prune
+```
+
+Law without Life becomes dead order.
+
+Life without Law becomes uncontrolled growth.
+
+Law and Life without Love become cold automation.
+
+Agent Biotope is a habitat where Law constrains, Life generates, and Love cultivates.
+
 ## Contrast
 
 Some systems burn computation to preserve symbolic value.
